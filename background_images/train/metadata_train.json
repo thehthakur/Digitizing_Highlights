@@ -1,0 +1,24 @@
+{
+    "images": [
+      {
+        "filename": "train_01.jpg",
+        "boxes": [
+          {
+            "rect_start": [218, 218],
+            "width": 646,
+            "height": 66,
+            "thickness": 28,
+            "line_spacing": 9
+          },
+          {
+            "rect_start": [215, 299],
+            "width": 656,
+            "height": 453,
+            "thickness": 24,
+            "line_spacing": 9
+          }
+        ]
+      }
+    ]
+  }
+  
