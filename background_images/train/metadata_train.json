@@ -15,8 +15,15 @@
             "width": 656,
             "height": 453,
             "thickness": 24,
-            "line_spacing": 9
-          }
+            "line_spacing":9
+          },
+		  {
+			"rect_start":[213, 780],
+			"width":673,
+			"height":600,
+			"thickness":26,
+			"line_spacing":9
+		  }
         ]
       }, {
 		"filename": "train_02.jpg",
@@ -48,7 +55,6 @@
 			"thickness":60,
 			"line_spacing":19
 			}
-
 		]
 	  }
     ]
