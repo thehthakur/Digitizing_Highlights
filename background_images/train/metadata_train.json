@@ -6,7 +6,7 @@
           {
             "rect_start": [218, 218],
             "width": 646,
-            "height": 66,
+            "height": 56,
             "thickness": 28,
             "line_spacing": 9
           },
@@ -18,7 +18,39 @@
             "line_spacing": 9
           }
         ]
-      }
+      }, {
+		"filename": "train_02.jpg",
+		"boxes":[
+			{
+			"rect_start":[112, 162],
+			"width":901,
+			"height":162,
+			"thickness":60,
+			"line_spacing":19
+			},{
+
+			"rect_start":[113, 345],
+			"width":903,
+			"height":167,
+			"thickness":60,
+			"line_spacing":19
+
+			},{
+			"rect_start":[115, 524],
+			"width":903,
+			"height":351,
+			"thickness":60,
+			"line_spacing":19
+			}, {
+			"rect_start":[131, 893],
+			"width":903,
+			"height":600,
+			"thickness":60,
+			"line_spacing":19
+			}
+
+		]
+	  }
     ]
   }
   
