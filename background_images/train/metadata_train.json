@@ -1,140 +1,596 @@
 {
 	"images": [
+				{
+					"filename": "train_01.jpg",
+					"boxes": [
+						{
+							"rect_start": [218, 218],
+							"width": 646,
+							"height": 56,
+							"thickness": 28,
+							"line_spacing": 9
+						},
+						{
+							"rect_start": [215, 299],
+							"width": 656,
+							"height": 453,
+							"thickness": 24,
+							"line_spacing":9
+						}
+					]
+                }, {
+                "filename": "train_02.jpg",
+                "boxes":[
+                        {
+                                "rect_start":[112, 162],
+                                "width":901,
+                                "height":162,
+                                "thickness":60,
+                                "line_spacing":19
+                        },{
+
+                        "rect_start":[113, 345],
+                        "width":903,
+                        "height":167,
+                        "thickness":60,
+                        "line_spacing":19
+
+                        },{
+                        "rect_start":[115, 524],
+                        "width":903,
+                        "height":351,
+                        "thickness":60,
+                        "line_spacing":19
+                        }, {
+                        "rect_start":[131, 893],
+                        "width":903,
+                        "height":600,
+                        "thickness":60,
+                        "line_spacing":19
+                        }
+                ]
+                }, {
+                "filename":"train_03.jpg",
+                "boxes":[
+                        {
+                                "rect_start":[128, 299],
+                                "width":940,
+                                "height":1053,
+                                "thickness":67,
+                                "line_spacing":40
+                        }
+                ] 
+                }, {
+                "filename":"train_04.jpg",
+                "boxes":
+                [
+                        {
+                                "rect_start":[56, 37],
+                                "width":466,
+                                "height":164,
+                                "thickness":29,
+                                "line_spacing":14
+                        },{
+                        "rect_start":[56, 211],
+                        "width":494,
+                        "height":161,
+                        "thickness":29,
+                        "line_spacing":14
+
+                        },{
+
+                        "rect_start":[77, 405],
+                        "width":469,
+                        "height":345,
+                        "thickness":35,
+                        "line_spacing":14
+
+                        },{
+
+                        "rect_start":[56, 866],
+                        "width":483,
+                        "height":187,
+                        "thickness":29,
+                        "line_spacing":14
+
+                        },{
+
+                        "rect_start":[56, 1068],
+                        "width":483,
+                        "height":158,
+                        "thickness":29,
+                        "line_spacing":14
+
+                        }, {
+
+                        "rect_start":[56, 1292],
+                        "width":504,
+                        "height":246,
+                        "thickness":29,
+                        "line_spacing":14
+
+                        }, {
+
+                        "rect_start":[594, 861],
+                        "width":499,
+                        "height":212,
+                        "thickness":29,
+                        "line_spacing":14
+
+                        }, {
+
+                        "rect_start":[594, 1086],
+                        "width":499,
+                        "height":132,
+                        "thickness":29,
+                        "line_spacing":14
+
+                        }, {
+
+                        "rect_start":[594, 1462],
+                        "width":499,
+                        "height":101,
+                        "thickness":29,
+                        "line_spacing":14
+
+                        }
+                ]
+            },
+			{
+			"filename": "train_05.jpg",
+			"boxes":
+			[
+				{
+					"rect_start":[99, 398],
+					"width":514,
+					"height":134,
+					"thickness":27,
+					"line_spacing":15
+				}, 
+				{
+					"rect_start":[104, 567],
+					"width":487,
+					"height":240,
+					"thickness":27,
+					"line_spacing":15
+				},
+				{
+					"rect_start":[647, 31],
+					"width":487,
+					"height":69,
+					"thickness":27,
+					"line_spacing":15
+				},
+				{
+					"rect_start":[650, 117],
+					"width":499,
+					"height":526,
+					"thickness":27,
+					"line_spacing":15
+				},
+				{
+					"rect_start":[655, 684],
+					"width":492,
+					"height":605,
+					"thickness":27,
+					"line_spacing":15
+				},
+				{
+					"rect_start":[657, 1335],
+					"width":492,
+					"height":239,
+					"thickness":27,
+					"line_spacing":15
+				}
+
+
+			]
+		},
 		{
-			"filename": "train_01.jpg",
+			"filename": "train_06.jpg",
+			"boxes": 
+			[
+				{
+					"rect_start": [41, 462],
+					"width": 676,
+					"height": 199,
+					"thickness": 30,
+					"line_spacing": 18
+				},
+				{
+					"rect_start": [66, 690],
+					"width": 654,
+					"height": 77,
+					"thickness": 32,
+					"line_spacing":20
+				},
+				{
+					"rect_start": [39, 904],
+					"width": 649,
+					"height": 139,
+					"thickness": 30,
+					"line_spacing":18
+				},
+				{
+					"rect_start": [43, 1141],
+					"width": 654,
+					"height": 170,
+					"thickness": 30,
+					"line_spacing":18
+				},
+				{
+					"rect_start": [43, 1334],
+					"width": 552,
+					"height": 205,
+					"thickness": 30,
+					"line_spacing":18
+				}			
+			]
+		},
+		{
+			"filename": "train_07.jpg",
+			"boxes": 
+			[
+				{
+					"rect_start": [167, 334],
+					"width": 928,
+					"height": 167,
+					"thickness": 50,
+					"line_spacing":25
+				},
+				{
+					"rect_start": [174, 571],
+					"width": 910,
+					"height": 255,
+					"thickness": 46,
+					"line_spacing":24
+				},
+				{
+					"rect_start": [181, 851],
+					"width": 899,
+					"height": 851,
+					"thickness": 46,
+					"line_spacing":23
+				}			
+			]
+		},
+		{
+			"filename": "train_08.jpg",
+			"boxes": 
+			[
+				{
+					"rect_start": [499, 807],
+					"width": 672,
+					"height": 106,
+					"thickness": 30,
+					"line_spacing":18
+				},
+				{
+					"rect_start": [502, 939],
+					"width": 672,
+					"height": 73,
+					"thickness": 30,
+					"line_spacing":18
+				},
+				{
+					"rect_start": [704, 1101],
+					"width": 472,
+					"height": 171,
+					"thickness": 30,
+					"line_spacing":18
+				},
+				{
+					"rect_start": [702, 1297],
+					"width": 457,
+					"height": 233,
+					"thickness": 30,
+					"line_spacing":18
+				}			
+			]
+		},
+		{
+			"filename": "train_09.jpg",
+			"boxes": 
+			[
+				{
+					"rect_start": [78, 91],
+					"width": 954,
+					"height": 359,
+					"thickness": 61,
+					"line_spacing":37
+				},
+				{
+					"rect_start": [76, 593],
+					"width": 962,
+					"height": 417,
+					"thickness": 63,
+					"line_spacing":36
+				},
+				{
+					"rect_start": [76, 1151],
+					"width": 962,
+					"height": 313,
+					"thickness": 63,
+					"line_spacing":35
+				}			
+			]
+		},
+		{
+			"filename": "train_10.jpg",
+			"boxes": 
+			[
+				{
+					"rect_start": [215, 205],
+					"width": 592,
+					"height": 844,
+					"thickness": 22,
+					"line_spacing":12
+				}		
+			]
+		},
+		{
+			"filename": "train_11.jpg",
+			"boxes": 
+			[
+				{
+					"rect_start": [33, 17],
+					"width": 684,
+					"height": 711,
+					"thickness": 38,
+					"line_spacing":25
+				}		
+			]
+		},
+		{
+			"filename": "train_12.jpg",
+			"boxes": 
+			[
+				{
+					"rect_start": [172, 341],
+					"width": 1699,
+					"height": 481,
+					"thickness": 67,
+					"line_spacing":36
+				}, 
+				{
+					"rect_start": [176, 957],
+					"width": 1682,
+					"height": 293,
+					"thickness": 67,
+					"line_spacing":38
+				},
+				{
+					"rect_start": [183, 1397],
+					"width": 1670,
+					"height": 213,
+					"thickness": 61,
+					"line_spacing":37
+				},
+				{
+					"rect_start": [194, 1754],
+					"width": 1653,
+					"height": 153,
+					"thickness": 62,
+					"line_spacing":37
+				},
+				{
+					"rect_start": [81, 2403],
+					"width": 1749,
+					"height": 290,
+					"thickness": 55,
+					"line_spacing":12
+				}
+
+			]
+		},
+		{
+			"filename": "train_13.jpg",
 			"boxes": [
 				{
-					"rect_start": [218, 218],
-					"width": 646,
-					"height": 56,
-					"thickness": 28,
+					"rect_start": [34, 100],
+					"width": 452,
+					"height": 91,
+					"thickness": 14,
+					"line_spacing": 6
+				},
+				{
+					"rect_start": [33, 200],
+					"width": 453,
+					"height": 118,
+					"thickness": 13,
+					"line_spacing":6
+				},
+				{
+					"rect_start": [31, 340],
+					"width": 454,
+					"height": 118,
+					"thickness": 13,
+					"line_spacing":6
+				},
+				{
+					"rect_start": [31, 481],
+					"width": 454,
+					"height": 146,
+					"thickness": 13,
+					"line_spacing":6
+				},
+				{
+					"rect_start": [31, 634],
+					"width": 454,
+					"height": 103,
+					"thickness": 13,
+					"line_spacing":6
+				}			
+			]
+		},
+		{
+			"filename": "train_14.jpg",
+			"boxes": [
+				{
+					"rect_start": [9, 173],
+					"width": 400,
+					"height": 58,
+					"thickness": 16,
 					"line_spacing": 9
 				},
 				{
-					"rect_start": [215, 299],
-					"width": 656,
-					"height": 453,
-					"thickness": 24,
+					"rect_start": [9, 258],
+					"width": 400,
+					"height": 109,
+					"thickness": 16,
+					"line_spacing":9
+				},
+				{
+					"rect_start": [9, 394],
+					"width": 400,
+					"height": 177,
+					"thickness": 16,
+					"line_spacing":9
+				},
+				{
+					"rect_start": [9, 599],
+					"width": 400,
+					"height": 75,
+					"thickness": 16,
 					"line_spacing":9
 				}			
 			]
+		},
+		{
+			"filename": "train_15.jpg",
+			"boxes": [
+				{
+					"rect_start": [21, 63],
+					"width": 614,
+					"height": 234,
+					"thickness": 14,
+					"line_spacing": 3
+				},
+				{
+					"rect_start": [21, 342],
+					"width": 614,
+					"height": 87,
+					"thickness": 17,
+					"line_spacing":7
+				},
+				{
+					"rect_start": [21, 503],
+					"width": 614,
+					"height": 266,
+					"thickness":18,
+					"line_spacing":9
+				},
+				{
+					"rect_start": [21, 889],
+					"width": 614,
+					"height": 137,
+					"thickness":26,
+					"line_spacing":1
+				}			
+			]
+		},
+		{
+			"filename": "train_16.jpg",
+			"boxes": [
+				{
+					"rect_start": [75, 513],
+					"width": 459,
+					"height": 236,
+					"thickness": 16,
+					"line_spacing": 4
+				}
+			]
 		}, {
-		"filename": "train_02.jpg",
+		"filename": "train_17.jpg",
 		"boxes":[
 			{
-				"rect_start":[112, 162],
-				"width":901,
-				"height":162,
-				"thickness":60,
-				"line_spacing":19
-			},{
+				"rect_start":[72, 119],
+				"width":417,
+				"height":133,
+				"thickness":11,
+				"line_spacing":5
+			},
+			{
 
-			"rect_start":[113, 345],
-			"width":903,
-			"height":167,
-			"thickness":60,
-			"line_spacing":19
+			"rect_start":[52, 401],
+			"width":221,
+			"height":191,
+			"thickness":13,
+			"line_spacing":5
 
-			},{
-			"rect_start":[115, 524],
-			"width":903,
-			"height":351,
-			"thickness":60,
-			"line_spacing":19
-			}, {
-			"rect_start":[131, 893],
-			"width":903,
-			"height":600,
-			"thickness":60,
-			"line_spacing":19
+			},
+			{
+			"rect_start":[54, 593],
+			"width":219,
+			"height":228,
+			"thickness":13,
+			"line_spacing":6
+			}, 
+			{
+			"rect_start":[290, 430],
+			"width":216,
+			"height":390,
+			"thickness":13,
+			"line_spacing":6
 			}
 		]
 		}, {
-		"filename":"train_03.jpg",
+		"filename":"train_18.jpg",
 		"boxes":[
 			{
-				"rect_start":[128, 299],
-				"width":940,
-				"height":1053,
-				"thickness":67,
-				"line_spacing":40
+				"rect_start":[55, 116],
+				"width":607,
+				"height":208,
+				"thickness":37,
+				"line_spacing":22
+			},
+			{
+				"rect_start":[57, 344],
+				"width":605,
+				"height":246,
+				"thickness":37,
+				"line_spacing":22
+			},	
+			{
+				"rect_start":[55, 601],
+				"width":605,
+				"height":288,
+				"thickness":37,
+				"line_spacing":22
+			},
+			{
+				"rect_start":[55, 909],
+				"width":602,
+				"height":170,
+				"thickness":37,
+				"line_spacing":22
 			}
 		] 
 		}, {
-		"filename":"train_04.jpg",
+		"filename":"train_19.jpg",
 		"boxes":
 		[
 			{
-				"rect_start":[56, 37],
-				"width":466,
-				"height":164,
-				"thickness":29,
-				"line_spacing":14
-			},{
-			"rect_start":[56, 211],
-			"width":494,
-			"height":161,
-			"thickness":29,
-			"line_spacing":14
-
-			},{
-
-			"rect_start":[77, 405],
-			"width":469,
-			"height":345,
-			"thickness":35,
-			"line_spacing":14
-
-			},{
-
-			"rect_start":[56, 866],
-			"width":483,
-			"height":187,
-			"thickness":29,
-			"line_spacing":14
-
-			},{
-
-			"rect_start":[56, 1068],
-			"width":483,
-			"height":158,
-			"thickness":29,
-			"line_spacing":14
-
-			}, {
-
-			"rect_start":[56, 1292],
-			"width":504,
-			"height":246,
-			"thickness":29,
-			"line_spacing":14
-
-			}, {
-
-			"rect_start":[594, 861],
-			"width":499,
-			"height":212,
-			"thickness":29,
-			"line_spacing":14
-
-			}, {
-
-			"rect_start":[594, 1086],
-			"width":499,
-			"height":132,
-			"thickness":29,
-			"line_spacing":14
-
-			}, {
-
-			"rect_start":[594, 1462],
-			"width":499,
-			"height":101,
-			"thickness":29,
-			"line_spacing":14
-
-			}
+				"rect_start":[2, 20],
+				"width":508,
+				"height":803,
+				"thickness":42,
+				"line_spacing":24
+			}		
+		]
+		}, {
+		"filename":"train_20.jpg",
+		"boxes":
+		[
+			{
+				"rect_start":[60, 233],
+				"width":617,
+				"height":933,
+				"thickness":28,
+				"line_spacing":16
+			}		
 		]
 		}
+
 	]
 }
