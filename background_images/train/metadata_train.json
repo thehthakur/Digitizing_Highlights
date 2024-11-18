@@ -333,12 +333,33 @@
 			"boxes": 
 			[
 				{
-					"rect_start": [33, 17],
+					"rect_start": [30, 11],
 					"width": 684,
-					"height": 711,
-					"thickness": 38,
-					"line_spacing":25
-				}		
+					"height": 173,
+					"thickness": 27,
+					"line_spacing":1
+				},
+				{
+					"rect_start": [30, 192],
+					"width": 688,
+					"height": 215,
+					"thickness": 29,
+					"line_spacing":1
+				},
+				{
+					"rect_start": [30, 408],
+					"width": 688,
+					"height": 223,
+					"thickness": 35,
+					"line_spacing":1
+				},
+				{
+					"rect_start": [30, 665],
+					"width": 688,
+					"height": 177,
+					"thickness": 33,
+					"line_spacing":1
+				}
 			]
 		},
 		{
